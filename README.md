@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning DSA and JAVA.
 - 👯 I’m always exicted to collaborate for open source contributions.
 - 📫 How to reach me: ...
-- 😄 Pronouns: She/er
+- 😄 Pronouns: She/Her
 - ⚡ coding , coding and coding!
 
