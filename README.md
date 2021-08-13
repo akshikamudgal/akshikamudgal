@@ -7,7 +7,7 @@
 - 🔭 I’m currently doing B.tech from Vellore Institute of Technology.
 - 🌱 I’m currently learning DSA and JAVA.
 - 👯 I’m always exicted to collaborate for open source contributions.
-- 📫 How to reach me: ...
+- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshikamudgal)](https://www.linkedin.com/in/akshikamudgal)
 - 😄 Pronouns: She/Her
 - ⚡ coding , coding and coding!
 
