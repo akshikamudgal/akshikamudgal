@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/akshikamudgal/akshikamudgal/blob/main/Screenshot%20(3).png"/></a>
 
-### Hi there 👋 I'm Akshika!
+### Hi there 👋 I'm Akshika Mudgal!
 
 ## About Me
 
